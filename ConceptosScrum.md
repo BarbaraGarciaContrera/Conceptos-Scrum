@@ -26,3 +26,13 @@ Ayudar al Equipo Scrum a enfocarse en crear Incrementos de alto valor que cumpla
 Provocar la eliminación de impedimentos al progreso del Equipo Scrum; y,
 
 Asegurarse de que todos los eventos de Scrum se lleven a cabo y sean positivos, productivos y se mantengan dentro del marco de tiempo.
+
+
+Describir ¿qué es un ceremonia en SCRUM?
+
+Las ceremonias de Scrum (a veces también llamadas “eventos Scrum”) son, por así decirlo, reuniones que tienen lugar en las iteraciones o Sprints contemplados dentro de la metodología Scrum, y son una parte importante del progreso de cualquier proyecto.
+Ceremonias que se realizan a lo largo del proyecto:
+● Sprint Planning Meeting
+● Daily Scrum Meeting
+● Sprint Review Meeting
+● Sprint Retrospective Meeting
