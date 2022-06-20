@@ -41,3 +41,12 @@ Planificación de Sprint
 Sprint Planning inicia el Sprint al diseñar el trabajo que se realizará para el Sprint. Este plan resultante es creado por el trabajo colaborativo de todo el Equipo Scrum.
 
 El propietario del producto se asegura de que los asistentes estén preparados para analizar los elementos más importantes de la cartera de productos y cómo se relacionan con el objetivo del producto. El Equipo Scrum también puede invitar a otras personas a asistir a Sprint Planning para brindar asesoramiento.
+
+Retrospectiva de Sprint
+El propósito de la Retrospectiva de Sprint es planificar formas de aumentar la calidad y la eficacia.
+
+El Equipo Scrum inspecciona cómo fue el último Sprint con respecto a las personas, las interacciones, los procesos, las herramientas y su Definición de Terminado. Los elementos inspeccionados a menudo varían con el dominio del trabajo. Se identifican las suposiciones que los llevaron por mal camino y se exploran sus orígenes. El Equipo Scrum analiza qué salió bien durante el Sprint, qué problemas encontró y cómo se resolvieron (o no) esos problemas.
+
+El Equipo Scrum identifica los cambios más útiles para mejorar su efectividad. Las mejoras más impactantes se abordan lo antes posible. Incluso pueden agregarse al Sprint Backlog para el próximo Sprint.
+
+La Retrospectiva del Sprint concluye el Sprint. Tiene un límite de tiempo de un máximo de tres horas para un Sprint de un mes. Para Sprints más cortos, el evento suele ser más corto.
