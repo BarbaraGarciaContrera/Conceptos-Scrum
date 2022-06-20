@@ -34,5 +34,10 @@ Las ceremonias de Scrum (a veces también llamadas “eventos Scrum”) son, por
 Ceremonias que se realizan a lo largo del proyecto:
 ● Sprint Planning Meeting
 ● Daily Scrum Meeting
-● Sprint Review Meeting
-● Sprint Retrospective Meeting
+● Sprint Review MeetinRg
+Reunion restrospectiva de Sprint
+
+Planificación de Sprint
+Sprint Planning inicia el Sprint al diseñar el trabajo que se realizará para el Sprint. Este plan resultante es creado por el trabajo colaborativo de todo el Equipo Scrum.
+
+El propietario del producto se asegura de que los asistentes estén preparados para analizar los elementos más importantes de la cartera de productos y cómo se relacionan con el objetivo del producto. El Equipo Scrum también puede invitar a otras personas a asistir a Sprint Planning para brindar asesoramiento.
