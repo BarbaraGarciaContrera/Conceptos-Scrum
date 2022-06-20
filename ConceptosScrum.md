@@ -56,3 +56,11 @@ El Product Backlog es una lista emergente y ordenada de lo que se necesita para 
 Los elementos de la Lista de Producto que puede realizar el Equipo Scrum dentro de un Sprint se consideran listos para la selección en un evento de Planificación de Sprint. Suelen adquirir este grado de transparencia después de las actividades de refinación. El refinamiento de la cartera de productos es el acto de desglosar y definir aún más los elementos de la cartera de productos en elementos más pequeños y precisos. Esta es una actividad continua para agregar detalles, como una descripción, orden y tamaño. Los atributos a menudo varían con el dominio del trabajo.
 
 Los Desarrolladores que estarán haciendo el trabajo son responsables del dimensionamiento. El propietario del producto puede influir en los desarrolladores ayudándolos a comprender y seleccionar compensaciones.
+El Sprint Backlog se compone del Sprint Goal (por qué), el conjunto de elementos del Product Backlog seleccionados para el Sprint (qué), así como un plan procesable para entregar el Incremento (cómo).
+
+El Sprint Backlog es un plan por y para los Desarrolladores. Es una imagen muy visible y en tiempo real del trabajo que los desarrolladores planean realizar durante el Sprint para lograr el objetivo del Sprint. En consecuencia, el Sprint Backlog se actualiza a lo largo del Sprint a medida que se aprende más. Debe tener suficientes detalles para que puedan inspeccionar su progreso en el Daily Scrum.
+
+Compromiso: Sprint Goal
+El Sprint Goal es el único objetivo del Sprint. Aunque el Sprint Goal es un compromiso de los desarrolladores, brinda flexibilidad en términos del trabajo exacto necesario para lograrlo. El Sprint Goal también crea coherencia y enfoque, alentando al Equipo Scrum a trabajar en conjunto en lugar de en iniciativas separadas.
+
+El Sprint Goal se crea durante el evento Sprint Planning y luego se agrega al Sprint Backlog. A medida que los desarrolladores trabajan durante el Sprint, tienen en cuenta el objetivo del Sprint. Si el trabajo resulta ser diferente de lo que esperaban, colaboran con el Product Owner para negociar el alcance del Sprint Backlog dentro del Sprint sin afectar el Sprint Goal.
