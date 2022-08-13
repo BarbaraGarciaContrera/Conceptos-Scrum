@@ -39,7 +39,18 @@ index fk_Perro_idx (Perro ASC) VISIBLE,
 constraint fk_Perro foreign key (Perro) references Perro (ID_Perro)
 );
 
+# Se agrega un registro a la tabla Perro
 
+insert into db_Peluquería.Perro (ID_Perro, Nombre, Fecha_nac, Sexo, DNI_dueno)
+values ('1', 'Perla', '20-05-17', 'hembra', '28456321');
+
+# Se realiza una consulta al historial de db_Peluquería para detectar pacientes que no se atienden hace tiempo
+# Ejercicio 3 SQL
+select * from Historial;
+
+# Se elimina un paciente 
+
+delete from Historial where Fecha = '21-05-20';
 
 
 
