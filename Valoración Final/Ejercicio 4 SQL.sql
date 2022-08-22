@@ -33,7 +33,7 @@ Perro int,
 foreign key (Perro) references Perro (ID_Perro)
 );
 
-# Ejercicio 2
+# Ejercicio 4
 
 insert into Dueno values (40518042,"Julián","Meneses","3516565702","Fitz Roy 2000");
 insert into Perro values (01,"Bartok","2010-12-20","Macho",40518042);
